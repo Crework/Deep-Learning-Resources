@@ -27,6 +27,6 @@ Given below are the links for some of the resources where you can learn Deep Lea
 
 ### What to do next?
 
-As you have the basic knowledge of Deep Learning now, you need to learn more about specific fields of Deep Learning like NLP, Computer Vision and Deep Reinforcement Learning. Given below are the resources to get started with them:
+As you have the basic knowledge of Deep Learning now, you need to learn more about specific fields of Deep Learning like NLP, Computer Vision and Deep Reinforcement Learning. Crework gives you access to organized free resources to get started with all of them. Just go to the repositories mentioned below.:
 
 [Free NLP Resources](https://github.com/Crework/NLP-Resources)
