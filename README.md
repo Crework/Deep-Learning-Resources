@@ -29,4 +29,6 @@ Given below are the links for some of the resources where you can learn Deep Lea
 
 As you have the basic knowledge of Deep Learning now, you need to learn more about specific fields of Deep Learning like NLP, Computer Vision and Deep Reinforcement Learning. Crework gives you access to organized free resources to get started with all of them. Just go to the repositories mentioned below.:
 
+[Model Deployment by Full Stack Deep Learning](https://course.fullstackdeeplearning.com/)
+
 [Free NLP Resources](https://github.com/Crework/NLP-Resources)
