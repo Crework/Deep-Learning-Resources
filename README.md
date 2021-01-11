@@ -4,26 +4,25 @@ The main aim of this repository is to make Machine Learning and Deep Learning ed
 
 Given below are the links for some of the resources where you can learn Deep Learning for free. If you want to add any resource, feel free to make changes, I will accept them.
 
-#### Introduction to Deep Learning
+#### Best Deep Learning Resources
 
 [Deep Learning Specialization on Coursera (Most Recommended)](https://www.coursera.org/specializations/deep-learning)
 
+[Practical Deep Learning for Coders](https://course.fast.ai/)
+
+#### Additional Resources to refer for specific topics
+
+[Deep Learning playlist by Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi)
+
 [Introduction to Deep Learning by MIT](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 
-[Complete Deep Learning Playlist by Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi)
-
-#### Deep Learning Lectures
-
-[Deep Learning Lectures by Stanford](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
-
-[Deep Learning Lecture Series by DeepMind](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)
+[Deep Learning by DeepMind](https://youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)
 
 #### Best Youtube Channels to follow
 
 [Krish Naik](https://www.youtube.com/user/krishnaik06)
 
 [Stanford](https://www.youtube.com/user/stanfordonline)
-
 
 ### What to do next?
 
